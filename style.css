@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font: normal 15pt verdana;
+}
+
+h1{
+    color:blueviolet;
+}
+
+div {
+    font-size: 15px;
+    color:white;
+    font-style: italic;
+    vertical-align: middle;
+    width: 85px;
+    height: 85px;
+    background-color: blueviolet;
+    margin: 2px;   
+    display: inline-block;
+}
